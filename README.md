@@ -20,8 +20,10 @@ List the technologies used to build your website, e.g., HTML, CSS, JavaScript an
 Getting Started:
 
 Clone the repository:
-> git clone https://github.com/<your-username>/<repo-name>.git
-< Install dependencies (if applicable): >
+///
+git clone https://github.com/<your-username>/<repo-name>.git
+Install dependencies (if applicable): >
+///
 # For npm packages
 npm install
 
