@@ -27,11 +27,16 @@ Install dependencies (if applicable):
 # For npm packages
 npm install
 
-# For yarn packages
-yarn install
-(Optional) Configure the project for your environment (e.g., database connection details, payment gateway credentials)
-
 Run the development server:
 
 # (Replace "start" with the appropriate command for your project)
 npm start
+
+
+Contributing:
+
+Feel free to fork this repository and submit pull requests with your improvements.
+
+License:
+
+This project is licensed under the (MIT License).
